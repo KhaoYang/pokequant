@@ -1,0 +1,4212 @@
+{
+  "metadata": {
+    "source": "TCGDex API",
+    "language": "en",
+    "exportedAt": "2025-11-04T23:19:39.066Z"
+  },
+  "cards": [
+    {
+      "name": "Unown",
+      "id": "exu-!",
+      "rarity": "Rare",
+      "illustrator": "Kyoko Koizumi",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Unseen Forces Unown Collection",
+      "setId": "exu",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Celebi V",
+      "id": "swsh1-1",
+      "rarity": "Holo Rare V",
+      "illustrator": "PLANETA Igarashi",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Sword & Shield",
+      "setId": "swsh1",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 2.27,
+          "low": 1,
+          "trend": 2.21,
+          "avg1": 2.44,
+          "avg7": 2.46,
+          "avg30": 2.33,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 4.67,
+          "avg1-holo": 3.45,
+          "avg7-holo": 4.69,
+          "avg30-holo": 4.55
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 0.7,
+            "midPrice": 1.59,
+            "highPrice": 6.9,
+            "marketPrice": 1.35,
+            "directLowPrice": 2.4
+          }
+        }
+      }
+    },
+    {
+      "name": "Venonat",
+      "id": "swsh12-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Silver Tempest",
+      "setId": "swsh12",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.14,
+          "low-holo": 0.02,
+          "trend-holo": 0.14,
+          "avg1-holo": 0.38,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.14
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 1.49,
+            "marketPrice": 0.05,
+            "directLowPrice": 0.02
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.01,
+            "midPrice": 0.2,
+            "highPrice": 1.49,
+            "marketPrice": 0.17,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Beedrill V",
+      "id": "swsh10-001",
+      "rarity": "Holo Rare V",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Astral Radiance",
+      "setId": "swsh10",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 1.07,
+          "low": 0.15,
+          "trend": 0.9,
+          "avg1": 0.75,
+          "avg7": 0.93,
+          "avg30": 1.08,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": null,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 0.4,
+            "midPrice": 1.02,
+            "highPrice": 9.99,
+            "marketPrice": 1.11,
+            "directLowPrice": 1.75
+          }
+        }
+      }
+    },
+    {
+      "name": "Venusaur V",
+      "id": "swsh3.5-1",
+      "rarity": "Holo Rare V",
+      "illustrator": "PLANETA Mochizuki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Champion's Path",
+      "setId": "swsh3.5",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 2.52,
+          "low": 1.59,
+          "trend": 2.18,
+          "avg1": 2.72,
+          "avg7": 2.62,
+          "avg30": 2.77,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 2.88,
+          "avg1-holo": 2,
+          "avg7-holo": 3.05,
+          "avg30-holo": 3.59
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 1.25,
+            "midPrice": 2.42,
+            "highPrice": 19.99,
+            "marketPrice": 2.38,
+            "directLowPrice": 3.59
+          }
+        }
+      }
+    },
+    {
+      "name": "Oddish",
+      "id": "swsh12.5-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Crown Zenith",
+      "setId": "swsh12.5",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.31,
+          "low-holo": 0.03,
+          "trend-holo": 0.26,
+          "avg1-holo": 0.09,
+          "avg7-holo": 0.27,
+          "avg30-holo": 0.28
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 1.49,
+            "marketPrice": 0.06,
+            "directLowPrice": 0.02
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.18,
+            "midPrice": 0.36,
+            "highPrice": 1.49,
+            "marketPrice": 0.34,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Butterfree V",
+      "id": "swsh3-1",
+      "rarity": "Holo Rare V",
+      "illustrator": "Saki Hayashiro",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Darkness Ablaze",
+      "setId": "swsh3",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 1.46,
+          "low": 0.35,
+          "trend": 1.52,
+          "avg1": 2,
+          "avg7": 1.77,
+          "avg30": 1.48,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 1.92,
+          "avg1-holo": 1.5,
+          "avg7-holo": 1.87,
+          "avg30-holo": 2
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 0.58,
+            "midPrice": 1.13,
+            "highPrice": 20,
+            "marketPrice": 1.12,
+            "directLowPrice": 1.41
+          }
+        }
+      }
+    },
+    {
+      "name": "Lillipup",
+      "id": "tk-bw-e-1",
+      "rarity": "None",
+      "illustrator": "Mosakazu Fukuda",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "BW trainer Kit (Excadrill)",
+      "setId": "tk-bw-e",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Alakazam",
+      "id": "lc-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Legendary Collection",
+      "setId": "lc",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 12.84,
+          "low": 9.99,
+          "trend": 14.12,
+          "avg1": 10.99,
+          "avg7": 14.93,
+          "avg30": 23.8,
+          "avg-holo": 66.62,
+          "low-holo": 59.99,
+          "trend-holo": 90.19,
+          "avg1-holo": 59.9,
+          "avg7-holo": 74.99,
+          "avg30-holo": 86.25
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 137.5,
+            "midPrice": 221.25,
+            "highPrice": 499.99,
+            "marketPrice": 250,
+            "directLowPrice": 499.99
+          },
+          "holofoil": {
+            "lowPrice": 35.2,
+            "midPrice": 47.75,
+            "highPrice": 79.69,
+            "marketPrice": 53.06,
+            "directLowPrice": 30.45
+          }
+        }
+      }
+    },
+    {
+      "name": "Skitty",
+      "id": "tk-xy-latio-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Latios)",
+      "setId": "tk-xy-latio",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.27,
+            "midPrice": 0.3,
+            "highPrice": 0.5,
+            "marketPrice": 0.7,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Water Energy",
+      "id": "tk-xy-su-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Suicune)",
+      "setId": "tk-xy-su",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.02,
+            "midPrice": 0.18,
+            "highPrice": 1,
+            "marketPrice": 0.16,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Arcanine",
+      "id": "tk-ex-m-1",
+      "rarity": "None",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "EX trainer Kit 2 (Minun)",
+      "setId": "tk-ex-m",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Charizard",
+      "id": "pl4-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Arceus",
+      "setId": "pl4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 22.99,
+          "low": 4,
+          "trend": 15.78,
+          "avg1": 13.95,
+          "avg7": 15.74,
+          "avg30": 23.22,
+          "avg-holo": 15.5,
+          "low-holo": 8.84,
+          "trend-holo": 24.03,
+          "avg1-holo": 22.49,
+          "avg7-holo": 17.49,
+          "avg30-holo": 16.97
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 30.99,
+            "midPrice": 48.5,
+            "highPrice": 89.99,
+            "marketPrice": 53.62,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 26.18,
+            "midPrice": 42.83,
+            "highPrice": 99.99,
+            "marketPrice": 40.79,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Fletchling",
+      "id": "tk-xy-b-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Bisharp)",
+      "setId": "tk-xy-b",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 1.56,
+            "midPrice": 2.85,
+            "highPrice": 4.89,
+            "marketPrice": 1.56,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Caterpie",
+      "id": "swsh8-1",
+      "rarity": "Common",
+      "illustrator": "Mitsuhiro Arita",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Fusion Strike",
+      "setId": "swsh8",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.04,
+          "low": 0.02,
+          "trend": 0.05,
+          "avg1": 0.02,
+          "avg7": 0.06,
+          "avg30": 0.04,
+          "avg-holo": 0.14,
+          "low-holo": 0.02,
+          "trend-holo": 0.18,
+          "avg1-holo": 0.2,
+          "avg7-holo": 0.11,
+          "avg30-holo": 0.14
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 9.99,
+            "marketPrice": 0.07,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.05,
+            "midPrice": 0.2,
+            "highPrice": 2,
+            "marketPrice": 0.19,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Glameow",
+      "id": "tk-xy-p-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Pikachu Libre)",
+      "setId": "tk-xy-p",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.1,
+            "midPrice": 0.25,
+            "highPrice": 1,
+            "marketPrice": 0.28,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Beldum",
+      "id": "tk-ex-p-1",
+      "rarity": "None",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "EX trainer Kit 2 (Plusle)",
+      "setId": "tk-ex-p",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.08,
+            "midPrice": 0.31,
+            "highPrice": 1.49,
+            "marketPrice": 0.33,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Absol G",
+      "id": "pl3-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Yusuke Ishikawa",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Supreme Victors",
+      "setId": "pl3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Swirlix",
+      "id": "tk-xy-w-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Wigglytuff)",
+      "setId": "tk-xy-w",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.15,
+            "midPrice": 1,
+            "highPrice": 4.83,
+            "marketPrice": 5,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Bulbasaur",
+      "id": "swsh10.5-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Pokémon GO",
+      "setId": "swsh10.5",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.1,
+          "low": 0.02,
+          "trend": 0.08,
+          "avg1": 0.03,
+          "avg7": 0.05,
+          "avg30": 0.08,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": null,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.02,
+            "midPrice": 0.16,
+            "highPrice": 5.11,
+            "marketPrice": 0.11,
+            "directLowPrice": 0.1
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.09,
+            "midPrice": 0.32,
+            "highPrice": 3.02,
+            "marketPrice": 0.27,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Bagon",
+      "id": "tk-ex-latia-1",
+      "rarity": "None",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "EX trainer Kit (Latias)",
+      "setId": "tk-ex-latia",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.05,
+            "midPrice": 0.26,
+            "highPrice": 3.32,
+            "marketPrice": 0.29,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Ampharos",
+      "id": "pl1-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Atsuko Nishida",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Platinum",
+      "setId": "pl1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 6.41,
+          "low": 0.6,
+          "trend": 5.91,
+          "avg1": 7,
+          "avg7": 6.32,
+          "avg30": 5.78,
+          "avg-holo": 7.98,
+          "low-holo": 1,
+          "trend-holo": 8.32,
+          "avg1-holo": 17.99,
+          "avg7-holo": 6.42,
+          "avg30-holo": 4.33
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 10.59,
+            "midPrice": 13.49,
+            "highPrice": 14,
+            "marketPrice": 9.17,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 12,
+            "midPrice": 14.51,
+            "highPrice": 40,
+            "marketPrice": 14.81,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Pinsir",
+      "id": "swsh7-1",
+      "rarity": "Rare",
+      "illustrator": "Shin Nagasawa",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Evolving Skies",
+      "setId": "swsh7",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.06,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.08,
+          "avg7": 0.06,
+          "avg30": 0.06,
+          "avg-holo": 0.16,
+          "low-holo": 0.02,
+          "trend-holo": 0.18,
+          "avg1-holo": 0.2,
+          "avg7-holo": 0.17,
+          "avg30-holo": 0.16
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.15,
+            "highPrice": 2,
+            "marketPrice": 0.12,
+            "directLowPrice": 0.1
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.07,
+            "midPrice": 0.2,
+            "highPrice": 2,
+            "marketPrice": 0.15,
+            "directLowPrice": 0.07
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Arcanine",
+      "id": "pl2-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Masakazu Fukuda",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Rising Rivals",
+      "setId": "pl2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 8.79,
+          "low": 0.97,
+          "trend": 7.5,
+          "avg1": 2.5,
+          "avg7": 7.1,
+          "avg30": 6.93,
+          "avg-holo": 5.69,
+          "low-holo": 0.97,
+          "trend-holo": 5.59,
+          "avg1-holo": 5.99,
+          "avg7-holo": 6.31,
+          "avg30-holo": 5.59
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 34.99,
+            "midPrice": 39.95,
+            "highPrice": 70,
+            "marketPrice": 34.41,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 14.85,
+            "midPrice": 25.65,
+            "highPrice": 54.9,
+            "marketPrice": 29.99,
+            "directLowPrice": 54.9
+          }
+        }
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "A3-001",
+      "rarity": "One Diamond",
+      "illustrator": "HYOGONOSUKE",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Celestial Guardians",
+      "setId": "A3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Venusaur",
+      "id": "ru1-1",
+      "rarity": "None",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Pokémon Rumble",
+      "setId": "ru1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 52.25,
+          "low": 19.99,
+          "trend": 32.83,
+          "avg1": 99,
+          "avg7": 36.23,
+          "avg30": 28.71,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 11.03,
+          "avg1-holo": 22.84,
+          "avg7-holo": 11.09,
+          "avg30-holo": 5.39
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Ho-Oh",
+      "id": "cel25-1",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Celebrations",
+      "setId": "cel25",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.18,
+          "low": 0.02,
+          "trend": 0.15,
+          "avg1": 0.11,
+          "avg7": 0.18,
+          "avg30": 0.18,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": null,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 0.01,
+            "midPrice": 0.29,
+            "highPrice": 5.3,
+            "marketPrice": 0.29,
+            "directLowPrice": 0.17
+          }
+        }
+      }
+    },
+    {
+      "name": "Bellsprout",
+      "id": "swsh5-1",
+      "rarity": "Common",
+      "illustrator": "Sekio",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Battle Styles",
+      "setId": "swsh5",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.05,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.04,
+          "avg7": 0.05,
+          "avg30": 0.05,
+          "avg-holo": 0.24,
+          "low-holo": 0.02,
+          "trend-holo": 0.19,
+          "avg1-holo": 0.1,
+          "avg7-holo": 0.18,
+          "avg30-holo": 0.22
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 1.49,
+            "marketPrice": 0.05,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.1,
+            "midPrice": 0.25,
+            "highPrice": 10,
+            "marketPrice": 0.21,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Weedle",
+      "id": "swsh6-1",
+      "rarity": "Common",
+      "illustrator": "Sanosuke Sakuma",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Chilling Reign",
+      "setId": "swsh6",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.04,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.16,
+          "low-holo": 0.02,
+          "trend-holo": 0.18,
+          "avg1-holo": 0.1,
+          "avg7-holo": 0.18,
+          "avg30-holo": 0.16
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 2,
+            "marketPrice": 0.05,
+            "directLowPrice": 0.04
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.03,
+            "midPrice": 0.2,
+            "highPrice": 2,
+            "marketPrice": 0.18,
+            "directLowPrice": 0.07
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Pinsir",
+      "id": "B1-001",
+      "rarity": "One Diamond",
+      "illustrator": "Suwama Chiaki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Mega Rising",
+      "setId": "B1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Oddish",
+      "id": "swsh11-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Lost Origin",
+      "setId": "swsh11",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.03,
+          "avg-holo": 0.15,
+          "low-holo": 0.02,
+          "trend-holo": 0.14,
+          "avg1-holo": 0.1,
+          "avg7-holo": 0.14,
+          "avg30-holo": 0.14
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 2,
+            "marketPrice": 0.09,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.03,
+            "midPrice": 0.19,
+            "highPrice": 2,
+            "marketPrice": 0.14,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Hoppip",
+      "id": "A4a-001",
+      "rarity": "One Diamond",
+      "illustrator": "Kyoko Umemoto",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Secluded Springs",
+      "setId": "A4a",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "xy6-1",
+      "rarity": "Common",
+      "illustrator": "Tomokazu Komiya",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Roaring Skies",
+      "setId": "xy6",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.13,
+          "low": 0.02,
+          "trend": 0.2,
+          "avg1": 0.49,
+          "avg7": 0.16,
+          "avg30": 0.14,
+          "avg-holo": 0.41,
+          "low-holo": 0.05,
+          "trend-holo": 0.6,
+          "avg1-holo": 0.59,
+          "avg7-holo": 0.48,
+          "avg30-holo": 0.63
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.22,
+            "highPrice": 1.49,
+            "marketPrice": 0.22,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.1,
+            "midPrice": 0.44,
+            "highPrice": 2,
+            "marketPrice": 0.53,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Weedle",
+      "id": "A2b-001",
+      "rarity": "One Diamond",
+      "illustrator": "Akira Komayama",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Shining Revelry",
+      "setId": "A2b",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Potion",
+      "id": "P-A-001",
+      "rarity": "None",
+      "illustrator": "5ban Graphics",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Promos-A",
+      "setId": "P-A",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Yanma",
+      "id": "swsh4.5-1",
+      "rarity": "Common",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Shining Fates",
+      "setId": "swsh4.5",
+      "regulationMark": "E",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.02,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.02,
+          "avg-holo": 0.1,
+          "low-holo": 0.02,
+          "trend-holo": 0.1,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.1,
+          "avg30-holo": 0.1
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 25.05,
+            "marketPrice": 0.05,
+            "directLowPrice": 0.03
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.01,
+            "midPrice": 0.19,
+            "highPrice": 2,
+            "marketPrice": 0.13,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Sprigatito",
+      "id": "svp-001",
+      "rarity": "None",
+      "illustrator": "Yuu Nishida",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "SVP Black Star Promos",
+      "setId": "svp",
+      "regulationMark": "G",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Weedle",
+      "id": "swsh4-1",
+      "rarity": "Common",
+      "illustrator": "sui",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Vivid Voltage",
+      "setId": "swsh4",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.03,
+          "avg-holo": 0.14,
+          "low-holo": 0.02,
+          "trend-holo": 0.15,
+          "avg1-holo": 0.17,
+          "avg7-holo": 0.15,
+          "avg30-holo": 0.19
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 25.06,
+            "marketPrice": 0.06,
+            "directLowPrice": 0.06
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.01,
+            "midPrice": 0.22,
+            "highPrice": 2,
+            "marketPrice": 0.21,
+            "directLowPrice": 0.15
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Oddish",
+      "id": "A4-001",
+      "rarity": "One Diamond",
+      "illustrator": "ryoma uratsuka",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Wisdom of Sea and Sky",
+      "setId": "A4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Oddish",
+      "id": "sv03-001",
+      "rarity": "Common",
+      "illustrator": "Midori Harada",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Obsidian Flames",
+      "setId": "sv03",
+      "regulationMark": "G",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.06,
+          "avg7": 0.04,
+          "avg30": 0.03,
+          "avg-holo": 0.11,
+          "low-holo": 0.02,
+          "trend-holo": 0.12,
+          "avg1-holo": 0.11,
+          "avg7-holo": 0.13,
+          "avg30-holo": 0.12
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Tropius",
+      "id": "A3b-001",
+      "rarity": "Two Diamond",
+      "illustrator": "Oswaldo KATO",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Eevee Grove",
+      "setId": "A3b",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Caterpie",
+      "id": "swsh2-1",
+      "rarity": "Common",
+      "illustrator": "Uta",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Rebel Clash",
+      "setId": "swsh2",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.08,
+          "low": 0.02,
+          "trend": 0.08,
+          "avg1": 0.02,
+          "avg7": 0.06,
+          "avg30": 0.08,
+          "avg-holo": 0.28,
+          "low-holo": 0.04,
+          "trend-holo": 0.36,
+          "avg1-holo": 0.31,
+          "avg7-holo": 0.35,
+          "avg30-holo": 0.32
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.03,
+            "midPrice": 0.15,
+            "highPrice": 1.49,
+            "marketPrice": 0.13,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.01,
+            "midPrice": 0.3,
+            "highPrice": 2,
+            "marketPrice": 0.3,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Pikachu on the Ball",
+      "id": "fut2020-1",
+      "rarity": "None",
+      "illustrator": "The Pokémon Company Art Team",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "Pokémon Futsal 2020",
+      "setId": "fut2020",
+      "regulationMark": "D",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Caterpie",
+      "id": "sv09-001",
+      "rarity": "Common",
+      "illustrator": "Shimaris Yukichi",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Journey Together",
+      "setId": "sv09",
+      "regulationMark": "I",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.03,
+          "avg-holo": 0.1,
+          "low-holo": 0.02,
+          "trend-holo": 0.1,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.1,
+          "avg30-holo": 0.1
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Oddish",
+      "id": "A2-001",
+      "rarity": "One Diamond",
+      "illustrator": "Asako Ito",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Space-Time Smackdown",
+      "setId": "A2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "swsh9-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Brilliant Stars",
+      "setId": "swsh9",
+      "regulationMark": "F",
+      "legal": {
+        "standard": false,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.03,
+          "avg-holo": 0.11,
+          "low-holo": 0.02,
+          "trend-holo": 0.1,
+          "avg1-holo": 0.03,
+          "avg7-holo": 0.12,
+          "avg30-holo": 0.13
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.1,
+            "highPrice": 1.57,
+            "marketPrice": 0.06,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.05,
+            "midPrice": 0.22,
+            "highPrice": 1.61,
+            "marketPrice": 0.22,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Vulpix",
+      "id": "2016xy-1",
+      "rarity": "None",
+      "illustrator": "kirisAki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Macdonald's Collection 2016",
+      "setId": "2016xy",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 20.14,
+            "midPrice": 20.14,
+            "highPrice": 20.14,
+            "marketPrice": 19,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Tangela",
+      "id": "sv06-001",
+      "rarity": "Common",
+      "illustrator": "Yoriyuki Ikegami",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Twilight Masquerade",
+      "setId": "sv06",
+      "regulationMark": "H",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.08,
+          "low-holo": 0.02,
+          "trend-holo": 0.07,
+          "avg1-holo": 0.04,
+          "avg7-holo": 0.08,
+          "avg30-holo": 0.08
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Clefable",
+      "id": "base2-1",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Jungle",
+      "setId": "base2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 24.88,
+          "low": 1.95,
+          "trend": 29.06,
+          "avg1": 37.5,
+          "avg7": 20.6,
+          "avg30": 19.44,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 11.78,
+          "avg1-holo": 6.86,
+          "avg7-holo": 10.87,
+          "avg30-holo": 11.63
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Dark Alakazam",
+      "id": "base5-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Team Rocket",
+      "setId": "base5",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 75.49,
+          "low": 10,
+          "trend": 62.4,
+          "avg1": 38,
+          "avg7": 78.42,
+          "avg30": 57.81,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 33.85,
+          "avg1-holo": 20,
+          "avg7-holo": 21.03,
+          "avg30-holo": 33.72
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Bulbasaur",
+      "id": "A1-001",
+      "rarity": "One Diamond",
+      "illustrator": "Narumi Sato",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Genetic Apex",
+      "setId": "A1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Alakazam",
+      "id": "base1-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Base Set",
+      "setId": "base1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 42.38,
+          "low": 7.99,
+          "trend": 36.43,
+          "avg1": 47,
+          "avg7": 41.82,
+          "avg30": 43.92,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 19.66,
+          "avg1-holo": 7.99,
+          "avg7-holo": 14.29,
+          "avg30-holo": 25.6
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 34,
+            "midPrice": 52.55,
+            "highPrice": 242.05,
+            "marketPrice": 53.9,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Ethan's Pinsir",
+      "id": "sv10-001",
+      "rarity": "Uncommon",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Destined Rivals",
+      "setId": "sv10",
+      "regulationMark": "I",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "A1a-001",
+      "rarity": "One Diamond",
+      "illustrator": "Yuka Morii",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Mythical Island",
+      "setId": "A1a",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Alakazam",
+      "id": "base4-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Base Set 2",
+      "setId": "base4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 23.93,
+          "low": 9,
+          "trend": 21.38,
+          "avg1": 20.49,
+          "avg7": 24.62,
+          "avg30": 26.47,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 22.63,
+          "avg1-holo": 19.95,
+          "avg7-holo": 22.81,
+          "avg30-holo": 21.3
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 22.36,
+            "midPrice": 33.17,
+            "highPrice": 120,
+            "marketPrice": 37.29,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Heracross",
+      "id": "A2a-001",
+      "rarity": "Two Diamond",
+      "illustrator": "Satoshi Shirai",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Triumphant Light",
+      "setId": "A2a",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Snivy",
+      "id": "sv10.5b-001",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Black Bolt",
+      "setId": "sv10.5b",
+      "regulationMark": "I",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.11,
+          "low-holo": 0.02,
+          "trend-holo": 0.08,
+          "avg1-holo": 0.06,
+          "avg7-holo": 0.07,
+          "avg30-holo": 0.11
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Pikachu",
+      "id": "basep-1",
+      "rarity": "Common",
+      "illustrator": "Keiji Kinebuchi",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Wizards Black Star Promos",
+      "setId": "basep",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Petilil",
+      "id": "A3a-001",
+      "rarity": "One Diamond",
+      "illustrator": "sui",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Extradimensional Crisis",
+      "setId": "A3a",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Aerodactyl",
+      "id": "base3-1",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Fossil",
+      "setId": "base3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 28.19,
+          "low": 3.5,
+          "trend": 35.13,
+          "avg1": 29.99,
+          "avg7": 28.04,
+          "avg30": 27.2,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 20.44,
+          "avg1-holo": 17.25,
+          "avg7-holo": 24.69,
+          "avg30-holo": 16.04
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Blaine's Arcanine",
+      "id": "gym2-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Gym Challenge",
+      "setId": "gym2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 84.87,
+          "low": 11.5,
+          "trend": 70.35,
+          "avg1": 41.79,
+          "avg7": 85.07,
+          "avg30": 59.26,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 20.65,
+          "avg1-holo": 27.5,
+          "avg7-holo": 18.59,
+          "avg30-holo": 33.79
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Bulbasaur",
+      "id": "me01-001",
+      "rarity": "Common",
+      "illustrator": "HYOGONOSUKE",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Mega Evolution",
+      "setId": "me01",
+      "regulationMark": "I",
+      "legal": {
+        "standard": true,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.1,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.05,
+          "avg7": 0.05,
+          "avg30": 0.1,
+          "avg-holo": 0.25,
+          "low-holo": 0.02,
+          "trend-holo": 0.06,
+          "avg1-holo": 0.25,
+          "avg7-holo": 0.17,
+          "avg30-holo": 0.25
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.01,
+            "midPrice": 0.15,
+            "highPrice": 2.26,
+            "marketPrice": 0.1,
+            "directLowPrice": 0.1
+          },
+          "reverse-holofoil": {
+            "lowPrice": 0.07,
+            "midPrice": 0.28,
+            "highPrice": 2.3,
+            "marketPrice": 0.21,
+            "directLowPrice": 0.25
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Hoppip",
+      "id": "sv02-001",
+      "rarity": "Common",
+      "illustrator": "Yukiko Baba",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Paldea Evolved",
+      "setId": "sv02",
+      "regulationMark": "G",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.04,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.08,
+          "low-holo": 0.02,
+          "trend-holo": 0.06,
+          "avg1-holo": 0.09,
+          "avg7-holo": 0.07,
+          "avg30-holo": 0.08
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Blaine's Moltres",
+      "id": "gym1-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Gym Heroes",
+      "setId": "gym1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 90.44,
+          "low": 14.9,
+          "trend": 83.23,
+          "avg1": 160,
+          "avg7": 102.24,
+          "avg30": 82.22,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 39.55,
+          "avg1-holo": 29.99,
+          "avg7-holo": 46.31,
+          "avg30-holo": 39.25
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Joltik",
+      "id": "sv06.5-001",
+      "rarity": "Common",
+      "illustrator": "Naoyo Kimura",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Shrouded Fable",
+      "setId": "sv06.5",
+      "regulationMark": "H",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.06,
+          "low-holo": 0.02,
+          "trend-holo": 0.07,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.06,
+          "avg30-holo": 0.06
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Aggron",
+      "id": "dp2-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Mysterious Treasures",
+      "setId": "dp2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 78.44,
+          "low": 0.31,
+          "trend": 96.71,
+          "avg1": 1.11,
+          "avg7": 164.37,
+          "avg30": 34.39,
+          "avg-holo": 2.68,
+          "low-holo": 0.31,
+          "trend-holo": 0.02,
+          "avg1-holo": 0.71,
+          "avg7-holo": 2.18,
+          "avg30-holo": 4.53
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 2.95,
+            "midPrice": 3.48,
+            "highPrice": 4,
+            "marketPrice": 3.22,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 8,
+            "midPrice": 10.5,
+            "highPrice": 14.99,
+            "marketPrice": 6.56,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Ampharos",
+      "id": "neo1-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Neo Genesis",
+      "setId": "neo1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 17.84,
+          "low": 3,
+          "trend": 17.28,
+          "avg1": 99.99,
+          "avg7": 23.28,
+          "avg30": 21.74,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 11.37,
+          "avg1-holo": 7.57,
+          "avg7-holo": 7.43,
+          "avg30-holo": 9.64
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "sv08.5-001",
+      "rarity": "Common",
+      "illustrator": "Iori Suzuki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Prismatic Evolutions",
+      "setId": "sv08.5",
+      "regulationMark": "H",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.02,
+          "low": 0.02,
+          "trend": 0.02,
+          "avg1": 0.03,
+          "avg7": 0.02,
+          "avg30": 0.02,
+          "avg-holo": 0.1,
+          "low-holo": 0.02,
+          "trend-holo": 0.05,
+          "avg1-holo": 0.05,
+          "avg7-holo": 0.06,
+          "avg30-holo": 0.1
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Aggron",
+      "id": "ex16-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Power Keepers",
+      "setId": "ex16",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 7.48,
+          "low": 1,
+          "trend": 18.44,
+          "avg1": 16.95,
+          "avg7": 8.68,
+          "avg30": 15.44,
+          "avg-holo": 7.87,
+          "low-holo": 2.45,
+          "trend-holo": 7.6,
+          "avg1-holo": 3,
+          "avg7-holo": 6.19,
+          "avg30-holo": 7.67
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 9.5,
+            "midPrice": 10.28,
+            "highPrice": 25.2,
+            "marketPrice": 20.43,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 8.43,
+            "midPrice": 13,
+            "highPrice": 29.99,
+            "marketPrice": 10.12,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Dark Ampharos",
+      "id": "neo4-1",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Neo Destiny",
+      "setId": "neo4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 42.39,
+          "low": 10,
+          "trend": 41.91,
+          "avg1": 69.9,
+          "avg7": 43.59,
+          "avg30": 48.15,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 19.79,
+          "avg1-holo": 6.8,
+          "avg7-holo": 16.67,
+          "avg30-holo": 21.07
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Espeon",
+      "id": "neo2-1",
+      "rarity": "Rare",
+      "illustrator": "Atsuko Nishida",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Neo Discovery",
+      "setId": "neo2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 71.8,
+          "low": 24.94,
+          "trend": 86.37,
+          "avg1": 134.5,
+          "avg7": 99.28,
+          "avg30": 75.99,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 35.99,
+          "avg1-holo": 19.99,
+          "avg7-holo": 33.84,
+          "avg30-holo": 43.63
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Mew",
+      "id": "si1-1",
+      "rarity": "Common",
+      "illustrator": "Keiko Fukuyama",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Southern Islands",
+      "setId": "si1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 159.74,
+          "low": 49.95,
+          "trend": 129.66,
+          "avg1": 134.99,
+          "avg7": 118.86,
+          "avg30": 140.92,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 72.02,
+          "avg1-holo": 30,
+          "avg7-holo": 64.85,
+          "avg30-holo": 41.17
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 322,
+            "midPrice": 348,
+            "highPrice": 499.99,
+            "marketPrice": 240.96,
+            "directLowPrice": null
+          },
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Deoxys Normal Forme",
+      "id": "dp6-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Kent Kanetsuna",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Legends Awakened",
+      "setId": "dp6",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 5.47,
+          "low": 1.7,
+          "trend": 6.44,
+          "avg1": 3.49,
+          "avg7": 5.85,
+          "avg30": 5.81,
+          "avg-holo": 4.16,
+          "low-holo": 1.7,
+          "trend-holo": 4.51,
+          "avg1-holo": 4.24,
+          "avg7-holo": 4.14,
+          "avg30-holo": 4.78
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 9.41,
+            "midPrice": 12.99,
+            "highPrice": 20,
+            "marketPrice": 12.72,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 11.44,
+            "midPrice": 16.75,
+            "highPrice": 49.99,
+            "marketPrice": 17.85,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Bulbasaur",
+      "id": "sv03.5-001",
+      "rarity": "Common",
+      "illustrator": "Yuu Nishida",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "151",
+      "setId": "sv03.5",
+      "regulationMark": "G",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 56.53,
+          "low": 50.6,
+          "trend": 60.6,
+          "avg1": 52.75,
+          "avg7": 63.36,
+          "avg30": 51.89,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": null,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Ampharos",
+      "id": "neo3-1",
+      "rarity": "Rare",
+      "illustrator": "Toshinao Aoki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Neo Revelation",
+      "setId": "neo3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 13.93,
+          "low": 3.9,
+          "trend": 16.04,
+          "avg1": 14.24,
+          "avg7": 14.22,
+          "avg30": 28.37,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 16,
+          "avg1-holo": 24.19,
+          "avg7-holo": 18.31,
+          "avg30-holo": 14.84
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Electrike",
+      "id": "tk-ex-latio-1",
+      "rarity": "None",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "EX trainer Kit (Latios)",
+      "setId": "tk-ex-latio",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.07,
+            "midPrice": 0.25,
+            "highPrice": 4.72,
+            "marketPrice": 0.25,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Articuno",
+      "id": "dp5-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Masakazu Fukuda",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Majestic Dawn",
+      "setId": "dp5",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 8.54,
+          "low": 1.75,
+          "trend": 8.96,
+          "avg1": 19.95,
+          "avg7": 10.97,
+          "avg30": 9.1,
+          "avg-holo": 11,
+          "low-holo": 1.99,
+          "trend-holo": 12.98,
+          "avg1-holo": 32,
+          "avg7-holo": 11,
+          "avg30-holo": 7.58
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 14.5,
+            "midPrice": 17.25,
+            "highPrice": 39.99,
+            "marketPrice": 23.75,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 19.1,
+            "midPrice": 24,
+            "highPrice": 49.99,
+            "marketPrice": 39.09,
+            "directLowPrice": 20.38
+          }
+        }
+      }
+    },
+    {
+      "name": "Purrloin",
+      "id": "tk-bw-z-1",
+      "rarity": "None",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "BW trainer Kit (Zoroark)",
+      "setId": "tk-bw-z",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Caterpie",
+      "id": "tk-sm-l-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "SM trainer Kit (Lycanroc)",
+      "setId": "tk-sm-l",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.05,
+            "midPrice": 0.2,
+            "highPrice": 1.49,
+            "marketPrice": 0.17,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Grass Energy",
+      "id": "tk-xy-latia-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Latias)",
+      "setId": "tk-xy-latia",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.15,
+            "midPrice": 0.25,
+            "highPrice": 0.25,
+            "marketPrice": 0.15,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Scyther",
+      "id": "sv05-001",
+      "rarity": "Common",
+      "illustrator": "Dsuke",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Temporal Forces",
+      "setId": "sv05",
+      "regulationMark": "H",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.04,
+          "avg7": 0.03,
+          "avg30": 0.03,
+          "avg-holo": 0.12,
+          "low-holo": 0.02,
+          "trend-holo": 0.11,
+          "avg1-holo": 0.02,
+          "avg7-holo": 0.12,
+          "avg30-holo": 0.13
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Spoink",
+      "id": "tk-xy-n-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Noivern)",
+      "setId": "tk-xy-n",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.16,
+            "midPrice": 0.35,
+            "highPrice": 1.5,
+            "marketPrice": 0.52,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Geodude",
+      "id": "tk-dp-l-1",
+      "rarity": "None",
+      "illustrator": "Ken Sudimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "DP trainer Kit (Lucario)",
+      "setId": "tk-dp-l",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Fletchling",
+      "id": "tk-xy-sy-1",
+      "rarity": "Common",
+      "illustrator": "Unknown",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "XY trainer Kit (Sylveon)",
+      "setId": "tk-xy-sy",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.25,
+            "midPrice": 0.52,
+            "highPrice": 0.99,
+            "marketPrice": 0.35,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Dialga",
+      "id": "dp1-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Nakaoka",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Diamond & Pearl",
+      "setId": "dp1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 3.52,
+          "low": 0.5,
+          "trend": 2.89,
+          "avg1": 3,
+          "avg7": 2.89,
+          "avg30": 3.89,
+          "avg-holo": 2.17,
+          "low-holo": 0.5,
+          "trend-holo": 3.14,
+          "avg1-holo": 6,
+          "avg7-holo": 4.19,
+          "avg30-holo": 3.58
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 6.32,
+            "midPrice": 30.02,
+            "highPrice": 217.73,
+            "marketPrice": 23.76,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 3.89,
+            "midPrice": 9.99,
+            "highPrice": 18.5,
+            "marketPrice": 16.51,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Buizel",
+      "id": "tk-dp-m-1",
+      "rarity": "None",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "DP trainer Kit (Manaphy)",
+      "setId": "tk-dp-m",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": null,
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Aggron",
+      "id": "ex1-1",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Ruby & Sapphire",
+      "setId": "ex1",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 10.83,
+          "low": 1,
+          "trend": 11.07,
+          "avg1": 4,
+          "avg7": 10.92,
+          "avg30": 10.41,
+          "avg-holo": 6.08,
+          "low-holo": 1,
+          "trend-holo": 5.5,
+          "avg1-holo": 1.49,
+          "avg7-holo": 7.06,
+          "avg30-holo": 5.9
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 17.58,
+            "midPrice": 30,
+            "highPrice": 73.91,
+            "marketPrice": 18.01,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 12.53,
+            "midPrice": 14.68,
+            "highPrice": 22.98,
+            "marketPrice": 17.99,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Ampharos",
+      "id": "dp3-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Secret Wonders",
+      "setId": "dp3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 2.7,
+          "low": 0.2,
+          "trend": 1.86,
+          "avg1": 0.6,
+          "avg7": 1.35,
+          "avg30": 2.74,
+          "avg-holo": 3.98,
+          "low-holo": 0.29,
+          "trend-holo": 3.15,
+          "avg1-holo": 4.99,
+          "avg7-holo": 3.09,
+          "avg30-holo": 2.8
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 4.99,
+            "midPrice": 18.13,
+            "highPrice": 19.98,
+            "marketPrice": 17.26,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 10.02,
+            "midPrice": 20.17,
+            "highPrice": 39.99,
+            "marketPrice": 19.65,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Surskit",
+      "id": "sv04-001",
+      "rarity": "Common",
+      "illustrator": "Yoriyuki Ikegami",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Paradox Rift",
+      "setId": "sv04",
+      "regulationMark": "G",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.02,
+          "low": 0.02,
+          "trend": 0.03,
+          "avg1": 0.02,
+          "avg7": 0.02,
+          "avg30": 0.02,
+          "avg-holo": 0.08,
+          "low-holo": 0.02,
+          "trend-holo": 0.07,
+          "avg1-holo": 0.1,
+          "avg7-holo": 0.08,
+          "avg30-holo": 0.09
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Absol",
+      "id": "ex3-1",
+      "rarity": "Rare",
+      "illustrator": "Naoyo Kimura",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Dragon",
+      "setId": "ex3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 23.74,
+          "low": 3.75,
+          "trend": 17.42,
+          "avg1": 15,
+          "avg7": 25.5,
+          "avg30": 25.03,
+          "avg-holo": 20,
+          "low-holo": 5,
+          "trend-holo": 22.56,
+          "avg1-holo": 13.2,
+          "avg7-holo": 26.17,
+          "avg30-holo": 14.95
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 78.29,
+            "midPrice": 113.63,
+            "highPrice": 139.28,
+            "marketPrice": 67.76,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 94,
+            "midPrice": 390,
+            "highPrice": 580.83,
+            "marketPrice": 395,
+            "directLowPrice": 395
+          }
+        }
+      }
+    },
+    {
+      "name": "Blaziken",
+      "id": "dp4-1",
+      "rarity": "Rare Holo",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Great Encounters",
+      "setId": "dp4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 3.85,
+          "low": 0.99,
+          "trend": 2.73,
+          "avg1": 4.63,
+          "avg7": 2.65,
+          "avg30": 4.85,
+          "avg-holo": 4.8,
+          "low-holo": 1.9,
+          "trend-holo": 3.45,
+          "avg1-holo": 5,
+          "avg7-holo": 5.08,
+          "avg30-holo": 4.81
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": null,
+          "reverse-holofoil": {
+            "lowPrice": 11.13,
+            "midPrice": 15,
+            "highPrice": 16.06,
+            "marketPrice": 11,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 13.61,
+            "midPrice": 16.03,
+            "highPrice": 29.99,
+            "marketPrice": 15.73,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Heatran",
+      "id": "pop8-1",
+      "rarity": "Rare",
+      "illustrator": "Ken Sugimori",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "POP Series 8",
+      "setId": "pop8",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 4.5,
+          "low": 0.5,
+          "trend": 3.68,
+          "avg1": 4.5,
+          "avg7": 3.28,
+          "avg30": 3.16,
+          "avg-holo": 5,
+          "low-holo": null,
+          "trend-holo": 2.58,
+          "avg1-holo": 5,
+          "avg7-holo": 1.31,
+          "avg30-holo": 0.85
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 0.5,
+            "midPrice": 1.21,
+            "highPrice": 5.42,
+            "marketPrice": 1.8,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 0.75,
+            "midPrice": 3.64,
+            "highPrice": 6.82,
+            "marketPrice": 4.82,
+            "directLowPrice": 0.74
+          }
+        }
+      }
+    },
+    {
+      "name": "Garchomp",
+      "id": "pop9-1",
+      "rarity": "Rare",
+      "illustrator": "Kagemaru Himeno",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "POP Series 9",
+      "setId": "pop9",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 5.32,
+          "low": 5.5,
+          "trend": 7.06,
+          "avg1": 4.98,
+          "avg7": 7.86,
+          "avg30": 9.05,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 3.11,
+          "avg1-holo": 3.11,
+          "avg7-holo": 2,
+          "avg30-holo": 2
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 30,
+            "midPrice": 31.99,
+            "highPrice": 49.99,
+            "marketPrice": 13.45,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": null
+        }
+      }
+    },
+    {
+      "name": "Chimecho δ",
+      "id": "pop4-1",
+      "rarity": "Rare",
+      "illustrator": "Masakazu Fukuda",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": false,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "POP Series 4",
+      "setId": "pop4",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 340,
+          "low": 140,
+          "trend": 207.89,
+          "avg1": 340,
+          "avg7": 186.13,
+          "avg30": 105.83,
+          "avg-holo": null,
+          "low-holo": 199,
+          "trend-holo": 50,
+          "avg1-holo": 50,
+          "avg7-holo": 50,
+          "avg30-holo": 50
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Azumarill",
+      "id": "ex7-1",
+      "rarity": "Rare",
+      "illustrator": "Sumiyoshi Kizuki",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Team Rocket Returns",
+      "setId": "ex7",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 9.19,
+          "low": 1,
+          "trend": 10.75,
+          "avg1": 13,
+          "avg7": 10.24,
+          "avg30": 7.92,
+          "avg-holo": 26,
+          "low-holo": 8,
+          "trend-holo": 20.76,
+          "avg1-holo": 17,
+          "avg7-holo": 17.69,
+          "avg30-holo": 15.66
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 7.6,
+            "midPrice": 7.6,
+            "highPrice": 7.6,
+            "marketPrice": 5.8,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": {
+            "lowPrice": 38.75,
+            "midPrice": 45,
+            "highPrice": 65,
+            "marketPrice": 44.49,
+            "directLowPrice": null
+          },
+          "holofoil": {
+            "lowPrice": 17.85,
+            "midPrice": 21.54,
+            "highPrice": 49.99,
+            "marketPrice": 24.26,
+            "directLowPrice": 49.99
+          }
+        }
+      }
+    },
+    {
+      "name": "Blastoise",
+      "id": "pop3-1",
+      "rarity": "Rare",
+      "illustrator": "Mitsuhiro Arita",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "POP Series 3",
+      "setId": "pop3",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 30,
+          "low": 20,
+          "trend": 107.58,
+          "avg1": 30,
+          "avg7": 74.37,
+          "avg30": 73.87,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 59.99,
+          "avg1-holo": 99.99,
+          "avg7-holo": 50,
+          "avg30-holo": 50
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 350,
+            "midPrice": 350,
+            "highPrice": 350,
+            "marketPrice": 65.14,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 120,
+            "midPrice": 120,
+            "highPrice": 124.99,
+            "marketPrice": 121.66,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Treecko",
+      "id": "ex5.5-1",
+      "rarity": "None",
+      "illustrator": "Mark Kraus",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Poké Card Creator Pack",
+      "setId": "ex5.5",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 500,
+          "low": null,
+          "trend": 528.93,
+          "avg1": 500,
+          "avg7": 431.25,
+          "avg30": 431.25,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": null,
+          "avg1-holo": null,
+          "avg7-holo": null,
+          "avg30-holo": null
+        },
+        "tcgplayer": null
+      }
+    },
+    {
+      "name": "Entei",
+      "id": "pop2-1",
+      "rarity": "Rare",
+      "illustrator": "Kouki Saitou",
+      "variant": {
+        "firstEdition": false,
+        "holo": true,
+        "normal": true,
+        "reverse": false,
+        "wPromo": false
+      },
+      "set": "POP Series 2",
+      "setId": "pop2",
+      "regulationMark": "Unknown",
+      "legal": {
+        "standard": false,
+        "expanded": false
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 28.74,
+          "low": 7.5,
+          "trend": 37.86,
+          "avg1": 35,
+          "avg7": 33.64,
+          "avg30": 26.14,
+          "avg-holo": null,
+          "low-holo": null,
+          "trend-holo": 15.85,
+          "avg1-holo": 10,
+          "avg7-holo": 11.07,
+          "avg30-holo": 11.03
+        },
+        "tcgplayer": {
+          "updated": "2025-10-31T20:05:24.000Z",
+          "unit": "USD",
+          "normal": {
+            "lowPrice": 13.48,
+            "midPrice": 16.36,
+            "highPrice": 39.99,
+            "marketPrice": 18.58,
+            "directLowPrice": null
+          },
+          "reverse-holofoil": null,
+          "holofoil": {
+            "lowPrice": 4.76,
+            "midPrice": 14.65,
+            "highPrice": 37.05,
+            "marketPrice": 24.59,
+            "directLowPrice": null
+          }
+        }
+      }
+    },
+    {
+      "name": "Exeggcute",
+      "id": "sv08-001",
+      "rarity": "Common",
+      "illustrator": "Tetsu Kayama",
+      "variant": {
+        "firstEdition": false,
+        "holo": false,
+        "normal": true,
+        "reverse": true,
+        "wPromo": false
+      },
+      "set": "Surging Sparks",
+      "setId": "sv08",
+      "regulationMark": "H",
+      "legal": {
+        "standard": true,
+        "expanded": true
+      },
+      "pricing": {
+        "cardmarket": {
+          "updated": "2025-10-31T01:44:30.000Z",
+          "unit": "EUR",
+          "avg": 0.03,
+          "low": 0.02,
+          "trend": 0.04,
+          "avg1": 0.03,
+          "avg7": 0.04,
+          "avg30": 0.04,
+          "avg-holo": 0.13,
+          "low-holo": 0.02,
+          "trend-holo": 0.1,
+          "avg1-holo": 0.02,
+          "avg7-holo": 0.09,
+          "avg30-holo": 0.12
+        },
+        "tcgplayer": null
+      }
+    }
+  ]
+}
